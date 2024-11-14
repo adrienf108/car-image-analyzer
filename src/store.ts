@@ -29,7 +29,7 @@ export const useStore = create<State>((set) => ({
     uncategorizedImages: 0,
   },
   options: {
-    similarityThreshold: 70,
+    similarityThreshold: 80,
     useOllama: false,
     selectedModel: 'llava',
     openAIKey: '',
