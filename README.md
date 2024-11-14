@@ -24,7 +24,7 @@ A web application for processing, categorizing, and deduplicating car images usi
 
 ```bash
 git clone https://github.com/adrienf108/car-image-analyzer.git
-cd car-image-processor
+cd car-image-analyzer
 ```
 
 2. Install dependencies:
