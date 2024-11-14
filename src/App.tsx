@@ -9,7 +9,7 @@ function App() {
         <header className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 flex items-center gap-2">
             <Upload className="w-8 h-8" />
-            Car Image Processor
+            Car Image Analyzer
           </h1>
           <p className="text-gray-600 mt-2">
             Upload, deduplicate, and categorize car images automatically
